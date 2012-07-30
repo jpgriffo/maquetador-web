@@ -33,7 +33,7 @@ para descargarte este codigo e instalar las dependencias del proyecto.
 	
 Levantar el entorno
 ---------------------
-Para levantar el entorno abre una terminal y ejecuta el siguiente comando:
+Para levantar el entorno abre una terminal y ejecuta, una vez situado en la carpeta de la prueba, el siguiente comando:
 
 	rails server
 
