@@ -18,12 +18,16 @@ Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
 Comentaros que la prueba solamente es opcional y sirve un poco para que cuando te hagamos la entrevista pasemos 
 inmediatamente en ver como podemos trabajar con nostros.
 
+Procedimiento de Instalacion de Entorno
+---------------------
+* [How to Install Ruby on Rails](http://rubyonrails.org/download/)
+* [How to install Git](https://help.github.com/articles/set-up-git)
+
 Documentacion de Referencia
 ---------------------
-* How to Install Ruby on Rails:
-* How to use Github: 
-* Haml Reference Documentation: 
-* Compass Reference Documentation:
+* [Haml Reference Documentation](http://haml.info/docs/yardoc/file.HAML_REFERENCE.html)
+* [Sass Reference Documentation](http://sass-lang.com/)
+* [Compass Reference Documentation](http://compass-style.org/reference/compass/)
 
 
 
