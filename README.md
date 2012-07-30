@@ -12,8 +12,8 @@ sombras, curvaturas tienes que hacerlo con funcionalidades de Compass.
 
 Para esta prueba solamente vas a tener que trabajar con dos ficheros
 
-Fichero que contiene el layout de la pagina en HAML
-Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
+* **app/views/prueba/index.html.haml** Fichero que contiene el layout de la pagina en HAML
+* **app/assets/stylesheets/prueba.css.scss** Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
 
 Comentaros que la prueba solamente es opcional y sirve un poco para que cuando te hagamos la entrevista pasemos 
 inmediatamente en ver como podemos trabajar con nosotros.
