@@ -33,6 +33,7 @@ para descargarte este codigo e instalar las dependecias del proyecto.
 Arrancar Entorno
 ---------------------
 Para arrancar el entorno abre una terminal y ejecuta el siguiente commando
+
 	rails server
 
 Conectate con tu navegadore web a http://0.0.0.0:3000
@@ -44,7 +45,6 @@ Procedimiento de Entrega
 ---------------------
 Una vez completada la prueba comprime la carpeta y no la mandas por correo a rrhh_at_besol_es. La prueba para que 
 tenga validez la tienes que mandar antes del dia 6 de Agosto.
-
 
 Documentacion de Referencia
 ---------------------
