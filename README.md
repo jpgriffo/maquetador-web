@@ -7,7 +7,7 @@ reto que te hemos puesto por delante. La idea es bastante simple: maquetar la si
 ![Look and Feal](https://github.com/besol/maquetador-web/raw/master/public/images/pickdew.png)
 
 Las únicas imágenes que puedes utilizar son las que se encuentran en la carpeta **public/images**. Dentro de
-esa misma carpeta os podéis encontrar un fichero PSD en donde se puede ver con mayor detalle el grid layout. Todo lo demas (degradados, 
+esa misma carpeta os podéis encontrar un fichero PSD en donde se puede ver con mayor detalle. Todo lo demas (degradados, 
 sombras, curvaturas, ...) debes hacerlo con funcionalidades de Compass.
 
 Para esta prueba solamente vas a tener que trabajar con dos ficheros:
