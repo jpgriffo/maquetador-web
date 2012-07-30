@@ -44,7 +44,7 @@ por tres.
 
 Procedimiento de Entrega
 ---------------------
-Una vez completada la prueba, comprime la carpeta y mandánosla por correo a rrhh_arroba_besol_es antes del día 6 de agosto.
+Una vez completada la prueba, comprime la carpeta y mándanosla por correo a rrhh_arroba_besol_es antes del día 6 de agosto.
 
 Documentación de Referencia
 ---------------------
