@@ -16,12 +16,19 @@ Fichero que contiene el layout de la pagina en HAML
 Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
 
 Comentaros que la prueba solamente es opcional y sirve un poco para que cuando te hagamos la entrevista pasemos 
-inmediatamente en ver como podemos trabajar con nostros.
+inmediatamente en ver como podemos trabajar con nosotros.
 
 Procedimiento de Instalacion de Entorno
 ---------------------
 * [How to Install Ruby on Rails](http://rubyonrails.org/download/)
 * [How to install Git](https://help.github.com/articles/set-up-git)
+
+Una vez instalado el entorno de Ruby on Rails y de Git ejecuta los siguientes comandos desde una terminal
+para descargarte este codigo e instalar las dependecias del proyecto.
+
+	git clone git@github.com:besol/maquetador-web.git
+	cd maquetador-web
+	bundle install
 
 Documentacion de Referencia
 ---------------------
