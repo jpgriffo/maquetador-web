@@ -12,8 +12,8 @@ sombras, curvaturas tienes que hacerlo con funcionalidades de Compass.
 
 Para esta prueba solamente vas a tener que trabajar con dos ficheros
 
-Fichero que contiene el layout de la pagina en HAML
-Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
+* **app/views/prueba/index.html.haml** Fichero que contiene el layout de la pagina en HAML
+* **app/assets/stylesheets/prueba.css.scss** Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
 
 Comentaros que la prueba solamente es opcional y sirve un poco para que cuando te hagamos la entrevista pasemos 
 inmediatamente en ver como podemos trabajar con nosotros.
@@ -29,6 +29,22 @@ para descargarte este codigo e instalar las dependecias del proyecto.
 	git clone git@github.com:besol/maquetador-web.git
 	cd maquetador-web
 	bundle install
+	
+Arrancar Entorno
+---------------------
+Para arrancar el entorno abre una terminal y ejecuta el siguiente commando
+
+	rails server
+
+Conectate con tu navegadore web a http://0.0.0.0:3000
+
+Una vez hecho eso puedes modificar los fichero HAML y COMPASS sin tener que arrancar y apagar el servidor cada dos 
+por tres.
+
+Procedimiento de Entrega
+---------------------
+Una vez completada la prueba comprime la carpeta y no la mandas por correo a rrhh_at_besol_es. La prueba para que 
+tenga validez la tienes que mandar antes del dia 6 de Agosto.
 
 Documentacion de Referencia
 ---------------------
