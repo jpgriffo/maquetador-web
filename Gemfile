@@ -15,11 +15,14 @@ group :assets do
   gem 'coffee-rails', '~> 3.2.1'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platforms => :ruby
-
+  # gem 'therubyracer', :platforms => :ruby 
+  gem 'compass-rails'
+  gem 'compass-960-plugin'
   gem 'uglifier', '>= 1.0.3'
 end
 
+gem 'haml'
+gem 'haml-rails'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
