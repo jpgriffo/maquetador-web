@@ -1,50 +1,50 @@
-Prueba de Selecion para Maquetador Web
+Prueba de Selección para Maquetador Web
 ==============
 
-Enhorabuena! Desde Besol hemos visto tu pontencial y ahora queremos ver si eres capaz de superar este pequeño 
-reto que te hemos puesto por delante. La idea es bastante simple es maquetar la siguiente web utilizando Haml y Compass.
+Enhorabuena! Desde Besol hemos visto tu potencial y ahora queremos ver si eres capaz de superar este pequeño 
+reto que te hemos puesto por delante. La idea es bastante simple: maquetar la siguiente web utilizando HAML y Compass.
 
 ![Look and Feal](https://github.com/besol/maquetador-web/raw/master/public/images/pickdew.png)
 
-Avisarte que las unicas imagens que pudes utilizar son las que se encuentran en la carpeta **public/images**. Dentro de
-esa misma carpeta os podeis encontrar un fichero psd en donde se puede ver mejor el grid layout. Todo lo demas degrados, 
-sombras, curvaturas tienes que hacerlo con funcionalidades de Compass.
+Las únicas imágenes que puedes utilizar son las que se encuentran en la carpeta **public/images**. Dentro de
+esa misma carpeta os podéis encontrar un fichero PSD en donde se puede ver con mayor detalle el grid layout. Todo lo demas (degradados, 
+sombras, curvaturas, ...) debes hacerlo con funcionalidades de Compass.
 
-Para esta prueba solamente vas a tener que trabajar con dos ficheros
+Para esta prueba solamente vas a tener que trabajar con dos ficheros:
 
 * **app/views/prueba/index.html.haml** Fichero que contiene el layout de la pagina en HAML
-* **app/assets/stylesheets/prueba.css.scss** Fichero que contiene la hoja de estilo con funcionalidades de COMPASS
+* **app/assets/stylesheets/prueba.css.scss** Fichero que contiene la hoja de estilo con funcionalidades de Compass
 
-Comentaros que la prueba solamente es opcional y sirve un poco para que cuando te hagamos la entrevista pasemos 
-inmediatamente en ver como podemos trabajar con nosotros.
+La prueba es opcional y tiene por objeto que tengamos una base para poder ver rápidamente en la entrevista como sería trabajar contigo.
 
-Procedimiento de Instalacion de Entorno
+Procedimiento de Instalación del Entorno
 ---------------------
+
+En primer lugar tenéis que instalaros en vuestro equipo Ruby on Rails y Git. Podeis seguir los procedimientos de los siguientes enlaces:
 * [How to Install Ruby on Rails](http://rubyonrails.org/download/)
 * [How to install Git](https://help.github.com/articles/set-up-git)
 
-Una vez instalado el entorno de Ruby on Rails y de Git ejecuta los siguientes comandos desde una terminal
-para descargarte este codigo e instalar las dependecias del proyecto.
+Una vez instalado el entorno de Ruby on Rails y de Git, ejecuta los siguientes comandos desde una terminal
+para descargarte este codigo e instalar las dependencias del proyecto.
 
 	git clone git@github.com:besol/maquetador-web.git
 	cd maquetador-web
 	bundle install
 	
-Arrancar Entorno
+Levantar el entorno
 ---------------------
-Para arrancar el entorno abre una terminal y ejecuta el siguiente commando
+Para levantar el entorno abre una terminal y ejecuta el siguiente comando:
 
 	rails server
 
-Conectate con tu navegadore web a http://0.0.0.0:3000
+Conectate con tu navegador web a la URL http://0.0.0.0:3000
 
 Una vez hecho eso puedes modificar los fichero HAML y COMPASS sin tener que arrancar y apagar el servidor cada dos 
 por tres.
 
 Procedimiento de Entrega
 ---------------------
-Una vez completada la prueba comprime la carpeta y no la mandas por correo a rrhh_at_besol_es. La prueba para que 
-tenga validez la tienes que mandar antes del dia 6 de Agosto.
+Una vez completada la prueba, comprime la carpeta y mandánosla por correo a rrhh_arroba_besol_es antes del día 6 de agosto.
 
 Documentacion de Referencia
 ---------------------
