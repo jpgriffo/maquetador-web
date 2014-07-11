@@ -1,14 +1,14 @@
-Prueba de Selección para Maquetador Web
+Prueba de Selección para Desarrollador Web
 ==============
 
-Enhorabuena! Desde Besol hemos visto tu potencial y ahora queremos ver si eres capaz de superar este pequeño 
+Enhorabuena! Desde Flexiant hemos visto tu potencial y ahora queremos ver si eres capaz de superar este pequeño 
 reto que te hemos puesto por delante. La idea es bastante simple: maquetar la siguiente web utilizando HAML y Compass.
 
 ![Look and Feal](https://github.com/besol/maquetador-web/raw/master/public/images/pickdew.png)
 
 Las únicas imágenes que puedes utilizar son las que se encuentran en la carpeta **public/images**. Dentro de
 esa misma carpeta os podéis encontrar un fichero PSD en donde se puede ver con mayor detalle. Todo lo demas (degradados, 
-sombras, curvaturas, ...) debes hacerlo con funcionalidades de Compass.
+sombras, curvaturas, ...) debes hacerlo con funcionalidades de SASS/Compass.
 
 Para esta prueba solamente vas a tener que trabajar con dos ficheros:
 
@@ -16,6 +16,21 @@ Para esta prueba solamente vas a tener que trabajar con dos ficheros:
 * **app/assets/stylesheets/prueba.css.scss** Fichero que contiene la hoja de estilo con funcionalidades de Compass
 
 La prueba es opcional y tiene por objeto que tengamos una base para poder ver rápidamente en la entrevista como sería trabajar contigo.
+
+Extra (No es imprescindible pero…)
+---------------------
+
+Si nos quieres dejar realmente impresionamos te proponemos un reto mas: Dotar de funcionalidad a nuestra página de login.
+Para ello tendrás que usar el framework AngulrJS (y nada de jQuery) y escribirlo en Coffeescript. Te proporcionamos un servicio Angular contra el que tendrás que validar si los datos de login son correctos.
+La interfaz del servicio es sencilla acepta un objeto user con dos propiedades, name y password y una función callback que llamara con el resultado de la validación.
+	
+	loginService(user, callback)
+
+Pon tu código en el archivo:
+
+* **app/assets/javascripts/prueba.js.coffee**
+
+Si te ha resultado fácil prueba a guardar en el navegador los datos de login si la casilla ‘remember me’ esta marcada y el login es correcto (un servicio que use localStorage seria ideal) y recupera estos datos para hacer login automático al inicio.
 
 Procedimiento de Instalación del Entorno
 ---------------------
@@ -51,7 +66,8 @@ Documentación de Referencia
 * [Haml Reference Documentation](http://haml.info/docs/yardoc/file.HAML_REFERENCE.html)
 * [Sass Reference Documentation](http://sass-lang.com/)
 * [Compass Reference Documentation](http://compass-style.org/reference/compass/)
-
+* [AngularJS Reference Documentation](https://docs.angularjs.org/guide)
+* [Coffeescript Reference Documentation](http://coffeescript.org/)
 
 
 
