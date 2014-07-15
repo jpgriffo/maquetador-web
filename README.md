@@ -21,7 +21,7 @@ Extra (No es imprescindible pero…)
 ---------------------
 
 Si nos quieres dejar realmente impresionamos te proponemos un reto mas: Dotar de funcionalidad a nuestra página de login.
-Para ello tendrás que usar el framework AngulrJS (y nada de jQuery) y escribirlo en Coffeescript. Te proporcionamos un servicio Angular contra el que tendrás que validar si los datos de login son correctos.
+Para ello tendrás que usar el framework AngularJS (y nada de jQuery) y escribirlo en Coffeescript. Te proporcionamos un servicio Angular contra el que tendrás que validar si los datos de login son correctos.
 La interfaz del servicio es sencilla acepta un objeto user con dos propiedades, name y password y una función callback que llamara con el resultado de la validación.
 	
 	loginService(user, callback)
